@@ -14,6 +14,6 @@ result = float_image + noise
 
 cv2.imshow("Image Display 3",result)
 
-
+print("new feature")
 cv2.waitKey(0)
 cv2.destroyAllWindows()
